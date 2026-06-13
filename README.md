@@ -16,7 +16,7 @@ An end-to-end IoT-edge ecosystem designed to handle high-throughput telemetry da
 
 ## Project Links
 
-* **Project Presentation:** [Final Project Presentation](https://github.com/prachiv24/PROJECT-SENTINEL/blob/main/PPT.pptx)  
+* **Project Presentation:** [Final Project Presentation](PPT.pdf)  
 * **Video Demonstration:** [Watch Video](https://youtu.be/EfFH5G_PbLo)  
 * **Source Code:** [GitHub Repository](https://github.com/prachiv24/PROJECT-SENTINEL)  
 
