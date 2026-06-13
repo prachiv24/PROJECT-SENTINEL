@@ -150,6 +150,8 @@ Below is the end-to-end system layout for Project Sentinel, tracking data flow f
 cd backend_cv
 pip install -r requirements.txt
 python sliding_window.py
+```
+
 ### 3. Databricks Infrastructure Deployment
 Import the notebooks located in databricks_spark/ straight into your Databricks Workspace cluster.
 
