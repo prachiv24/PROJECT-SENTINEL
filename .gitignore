@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Next.js build and dev cache
+.next/
+dist/
+build/
+
+# Environment Variables
+.env
+.env.*
+
+# Secrets (Specific files)
+drowsines/service_account.json
+Backend/firebase_key.json
+
+# Keep these JSON files! (Remove *.json)
+# Do NOT ignore package.json or package-lock.json
